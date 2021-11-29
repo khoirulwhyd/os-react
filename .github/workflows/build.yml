@@ -1,4 +1,4 @@
-name: Hosting Static Website
+name: Hosting Static Website#2
 on:
  push:
  branches:
